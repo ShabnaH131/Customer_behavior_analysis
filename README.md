@@ -76,7 +76,7 @@ Improved data quality through cleaning
 Generated actionable insights using SQL queries
 Delivered a professional dashboard and presentation for stakeholders
 
-▶️ How to Run
+▶️ **How to Run**
 
 Clone the repository:
 
